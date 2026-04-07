@@ -57,4 +57,4 @@ El proyecto implementa un manejo eficiente de recursos mediante el uso de Try-wi
 Autor
 
 Eduardo Cortes Robles
-Estudiante de Ingeniería en TI | Aspirante a AI & ML Engineer
+Estudiante de Ingeniería en TI 
