@@ -49,7 +49,6 @@ public class AppEmpleados extends JFrame {
             System.out.println("Error al crear tabla: " + e.getMessage());
         }
     }
-<
     private void crearInterfaz() {
         JPanel panelForm = new JPanel(new GridLayout(5, 2, 5, 5));
         panelForm.setBorder(BorderFactory.createTitledBorder("Datos del Empleado"));
